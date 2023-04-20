@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\bin\Debug\net6.0\SortedLinkedlist.exe
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\bin\Debug\net6.0\SortedLinkedlist.deps.json
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\bin\Debug\net6.0\SortedLinkedlist.runtimeconfig.json
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\bin\Debug\net6.0\SortedLinkedlist.dll
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\bin\Debug\net6.0\SortedLinkedlist.pdb
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\obj\Debug\net6.0\SortedLinkedlist.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\obj\Debug\net6.0\SortedLinkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\obj\Debug\net6.0\SortedLinkedlist.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\obj\Debug\net6.0\SortedLinkedlist.AssemblyInfo.cs
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\obj\Debug\net6.0\SortedLinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\obj\Debug\net6.0\SortedLinkedlist.dll
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\obj\Debug\net6.0\refint\SortedLinkedlist.dll
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\obj\Debug\net6.0\SortedLinkedlist.pdb
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\obj\Debug\net6.0\SortedLinkedlist.genruntimeconfig.cache
+C:\Users\USER\source\BL\6-PracticeProblems\SortedLinkedlist\SortedLinkedlist\obj\Debug\net6.0\ref\SortedLinkedlist.dll
