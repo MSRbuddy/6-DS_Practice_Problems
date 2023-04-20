@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\bin\Debug\net6.0\Queue-CRUD.exe
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\bin\Debug\net6.0\Queue-CRUD.deps.json
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\bin\Debug\net6.0\Queue-CRUD.runtimeconfig.json
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\bin\Debug\net6.0\Queue-CRUD.dll
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\bin\Debug\net6.0\Queue-CRUD.pdb
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\obj\Debug\net6.0\Queue-CRUD.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\obj\Debug\net6.0\Queue-CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\obj\Debug\net6.0\Queue-CRUD.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\obj\Debug\net6.0\Queue-CRUD.AssemblyInfo.cs
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\obj\Debug\net6.0\Queue-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\obj\Debug\net6.0\Queue-CRUD.dll
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\obj\Debug\net6.0\refint\Queue-CRUD.dll
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\obj\Debug\net6.0\Queue-CRUD.pdb
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\obj\Debug\net6.0\Queue-CRUD.genruntimeconfig.cache
+C:\Users\USER\source\BL\6-PracticeProblems\Queue-CRUD\Queue-CRUD\obj\Debug\net6.0\ref\Queue-CRUD.dll
