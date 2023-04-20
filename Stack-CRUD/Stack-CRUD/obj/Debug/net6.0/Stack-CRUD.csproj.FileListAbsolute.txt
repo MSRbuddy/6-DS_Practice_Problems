@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\bin\Debug\net6.0\Stack-CRUD.exe
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\bin\Debug\net6.0\Stack-CRUD.deps.json
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\bin\Debug\net6.0\Stack-CRUD.runtimeconfig.json
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\bin\Debug\net6.0\Stack-CRUD.dll
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\bin\Debug\net6.0\Stack-CRUD.pdb
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\obj\Debug\net6.0\Stack-CRUD.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\obj\Debug\net6.0\Stack-CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\obj\Debug\net6.0\Stack-CRUD.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\obj\Debug\net6.0\Stack-CRUD.AssemblyInfo.cs
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\obj\Debug\net6.0\Stack-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\obj\Debug\net6.0\Stack-CRUD.dll
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\obj\Debug\net6.0\refint\Stack-CRUD.dll
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\obj\Debug\net6.0\Stack-CRUD.pdb
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\obj\Debug\net6.0\Stack-CRUD.genruntimeconfig.cache
+C:\Users\USER\source\BL\6-PracticeProblems\Stack-CRUD\Stack-CRUD\obj\Debug\net6.0\ref\Stack-CRUD.dll
