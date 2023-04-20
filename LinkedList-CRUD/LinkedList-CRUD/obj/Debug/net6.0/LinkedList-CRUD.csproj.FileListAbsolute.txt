@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\bin\Debug\net6.0\LinkedList-CRUD.exe
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\bin\Debug\net6.0\LinkedList-CRUD.deps.json
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\bin\Debug\net6.0\LinkedList-CRUD.runtimeconfig.json
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\bin\Debug\net6.0\LinkedList-CRUD.dll
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\bin\Debug\net6.0\LinkedList-CRUD.pdb
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\obj\Debug\net6.0\LinkedList-CRUD.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\obj\Debug\net6.0\LinkedList-CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\obj\Debug\net6.0\LinkedList-CRUD.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\obj\Debug\net6.0\LinkedList-CRUD.AssemblyInfo.cs
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\obj\Debug\net6.0\LinkedList-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\obj\Debug\net6.0\LinkedList-CRUD.dll
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\obj\Debug\net6.0\refint\LinkedList-CRUD.dll
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\obj\Debug\net6.0\LinkedList-CRUD.pdb
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\obj\Debug\net6.0\LinkedList-CRUD.genruntimeconfig.cache
+C:\Users\USER\source\BL\6-PracticeProblems\LinkedList-CRUD\LinkedList-CRUD\obj\Debug\net6.0\ref\LinkedList-CRUD.dll
